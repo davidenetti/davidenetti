@@ -3,5 +3,5 @@
 - 💼 I work as Cybersecurity Consultant in [RAD Cyber Security](https://radsec.it/en/);
 - 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/davidenetti/).
 
-![davidenetti's github stats](https://github-readme-stats.vercel.app/api?username=davidenetti&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenetti&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![davidenetti's github stats](https://github-readme-stats.vercel.app/api?username=davidenetti&show_icons=true&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenetti&layout=demo&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
