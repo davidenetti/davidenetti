@@ -5,4 +5,5 @@ Graduated in Computer Science and Information Security (BS and MS). I’m intere
 ![davidenetti's GitHub views](https://komarev.com/ghpvc/?username=davidenetti&color=red&style=for-the-badge)
 \
 ![davidenetti's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenetti&theme=tokyonight&hide_border=true&layout=compact)
+\
 ![davidenetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidenetti&show_icons=true&theme=tokyonight&hide_border=true)
